@@ -11,8 +11,7 @@ The project will involve the use of the following tools and skills -
 2. Machine Learning - Unsupervised learning
 3. MySQL
 4. Tableau
-5. Figma
-6. Data Visualization - Dashboard creation
+5. Data Visualization - Dashboard creation
 
 ## Description - 
 ### Step 1- Data Cleaning and Preparation:
@@ -64,5 +63,6 @@ The following dashboards were finally created
 
 # CLUSTER 1
 ![HomePage](Images/Cluster1.png)
+
 
 
